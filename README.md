@@ -1,1 +1,1 @@
-## Adapt transformer to sequence model
+## Adapt transformer network to time series data
